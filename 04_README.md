@@ -25,3 +25,5 @@ This project analyzes sales data to identify revenue drivers, profitability tren
 - City Performance Comparison
 - Category Contribution Analysis
 - Profit & Margin Tracking
+
+“I built a complete sales performance dashboard with KPI tracking and business recommendations.”
