@@ -1,0 +1,11 @@
+order_id,order_date,city,product_category,quantity,price
+1,05-01-2025,Mumbai,Electronics,3,20000
+2,07-01-2025,Kolkata,Furniture,5,8000
+3,12-01-2025,Delhi,Electronics,2,22000
+4,03-02-2025,Mumbai,Furniture,6,9000
+5,10-02-2025,Kolkata,Electronics,4,18000
+6,15-02-2025,Delhi,Furniture,7,8500
+7,01-03-2025,Mumbai,Electronics,5,21000
+8,04-03-2025,Kolkata,Furniture,3,7500
+9,10-03-2025,Delhi,Electronics,6,23000
+10,15-03-2025,Mumbai,Furniture,4,9500
